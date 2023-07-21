@@ -64,8 +64,9 @@
     margin-bottom: 250px;
     padding-left: 10%;
     padding-right: 10%;
+    padding-top: 5%;
 }
-.container div{
+.container .item{
     width: 25%;
     display: flex;
     align-items: center;
@@ -75,7 +76,8 @@
 }
 
 .infolv1{
-    width: 100px;
+    padding-top: 50px;
+    width: 100%;
     font-size: 14px;
     justify-items: center;
     display: flex;
@@ -88,6 +90,7 @@
 .infolv2{
     font-weight: bold;
     color: black;
+    padding-top: 15px;
 }
 .sp{
     width: 80%;
