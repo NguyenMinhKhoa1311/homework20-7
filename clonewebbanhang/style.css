@@ -74,7 +74,16 @@
     flex-direction: column;
     
 }
-
+.soldout{
+    width: calc(200px);
+    height: 20px;
+    position: absolute;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .infolv1{
     padding-top: 50px;
     width: 100%;
